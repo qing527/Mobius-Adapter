@@ -1,0 +1,19 @@
+*.npy
+*.npz
+*.h5
+*.png
+*.jpg
+*.0
+
+results/
+
+
+checkpoints/
+# 缓存/日志
+__pycache__/
+*.log
+.vscode/
+.cache/
+train_outputs/
+*.safetensors
+*.pth

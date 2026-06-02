@@ -1,0 +1,25 @@
+accelerate==0.29.3
+diffusers @ git+https://github.com/huggingface/diffusers.git@49b959b5408b97274e2ee423059d9239445aea26
+einops==0.8.0
+huggingface-hub==0.22.2
+matplotlib==3.8.4
+numpy==1.26.4
+open3d==0.18.0
+opencv-python==4.9.0.80
+pandas==2.2.3
+peft @ git+https://github.com/huggingface/peft@77b7238b907c85f21ec756176351d85faf2aeaad
+pillow==11.1.0
+PyYAML==6.0.2
+safetensors==0.5.3
+scipy==1.15.2
+tensorboard==2.16.2
+toolz==1.1.0
+torch==2.1.1
+torchmetrics==1.8.2
+torchvision==0.16.1
+tqdm==4.66.2
+transformers==4.40.1
+urllib3==2.3.0
+wandb==0.19.7
+xformers==0.0.23
+zipp==3.21.0
