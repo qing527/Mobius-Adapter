@@ -76,8 +76,6 @@ CUDA_VISIBLE_DEVICES=0 python eval.py --pretrained_model_name_or_path 'stability
     --color_map jet \
     --denoise_steps 10 \
     --batch_size 2
-
-
 ```
 The eval script is in `scripts/eval.sh`.
 
